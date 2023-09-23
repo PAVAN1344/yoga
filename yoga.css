@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.homecontainer {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/yoga-bg.png');
+    background-size: cover;
+    height: 120vh;
+    padding: 20px;
+    text-align: center;
+}
+
+.heading1 {
+    font-family: "Roboto";
+    color: #132d84;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.img1 {
+    margin-top: 25px;
+    height: 400px;
+    width: 260px;
+}
+
+.para1 {
+    font-family: "Roboto";
+    color: #323f4b;
+
+    font-size: 20px;
+}
+
+.cont2 {
+
+    margin: 70px;
+}
+
+.button1 {
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 5px;
+    background-color: #132d84;
+    padding: 5px;
+}
+
+.cont3 {
+    background-color: #ffedcb;
+    background-size: cover;
+    height: 200vh;
+    padding: 15px;
+}
+
+.center {
+    text-align: center;
+    padding: 10px;
+}
+
+.img2 {
+    height: 50vh;
+    width: 50vh;
+}
+
+.head2 {
+    font-family: "Roboto";
+    font-size: 39px;
+    color: #132d84;
+}
+
+.head {
+    color: #253263;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.cont4 {
+    background-color: #ffe2ab;
+    border-radius: 15px;
+
+    padding: 10px;
+    margin: 20px;
+}
+
+.cont5 {
+    margin: 10px;
+}
+
+.img3 {
+    height: 120px;
+    width: 130px;
+    padding: 10px;
+}
+
+.head3 {
+    font-family: "Roboto";
+    font-size: 22px;
+    color: #253263;
+    font-weight: 700;
+}
+
+.para2 {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #253263;
+    font-weight: 700;
+}
+
+.button2 {
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 5px;
+    background-color: #132d84;
+    padding: 10px;
+    font-size: 15px;
+    width: 80px;
+}
